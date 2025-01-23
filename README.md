@@ -2,7 +2,7 @@ Cara Menjalankan Project Laravel
 
 
 1. Clone repository
-Jalankan perintah: git clone <url-repo-github>
+Jalankan perintah: git clone nama-repo-github
 
 2. Masuk ke folder project
 Ketik: cd ./nama-folder-project/
