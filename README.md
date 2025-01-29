@@ -42,3 +42,15 @@ Ketik: php artisan key:generate
 
 10. Jalankan server Laravel
 Ketik: php artisan serve
+
+11. Di terminal
+ketik : php artisan tinker
+
+12. Lalu
+ketik : echo bcrypt('nama_password_baru')
+
+13. Salin hashing password tersebut dengan ctrl + c
+
+14. Lalu pergi ke table users di database lalu pada data table users dengan id 1 tersebut klik edit lalu pada bagian password ganti password lama dengan hashing password yang baru di salin tadi dengan ctrl + a lalu ctrl + v
+
+15. Lalu pada laman login, login dengan data tersebut.
